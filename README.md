@@ -34,6 +34,6 @@ O objetivo é Desenvolver uma aplicação Web para cadastro de clientes.
 12. O mesmo vale para o CPF.
 13. Adicione o endereço seguido do número e/ou complemento e por fim o CEP.
 14. Adicione o contato , seguindo a ordem , primeiro o E-mail , telefone residencial (caso o cliente possua) seguido do celular , exatamente como no Exemplo : **Email@email.com.br - Telefone 0000-0000 - Celular (00) 00000-0000**
-**Imagem para ilustrativa 
+
 15. por último adicione as redes sociais do cliente , Facebook/user , Instagram.com/@user , Twitter.com/user
 ## Enjoy!!!
