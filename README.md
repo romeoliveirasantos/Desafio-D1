@@ -23,7 +23,9 @@ O objetivo é Desenvolver uma aplicação Web para cadastro de clientes.
 #### Rodando o código
 
 6. Pressione **F5** ou **CTRL + F5** para iniciar.
+
 7.Carregará a main page , onde haverá a possibilidade de **Criar um novo cadastro** , **editar** ou **remover** clientes e suas respectivas informações de cadastro .
+
 #### Como Registrar um cliente
 8. Clique em **Registrar Novo Cliente**.
 9. Adicione o nome do cliente no campo **Nome**.
