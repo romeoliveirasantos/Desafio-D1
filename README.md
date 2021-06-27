@@ -1,6 +1,6 @@
 # D1- Desafio
 
-## Cadastro de Clientes .NET Core Web API + C# + MongoDB Atlas + HTML
+## Cadastro de Clientes .NET Core Web API + C# + MongoDB Atlas 
 Este projeto é um exemplo básico de um banco de dados de cadastro de clientes.
 
 O objetivo é Desenvolver uma aplicação Web para cadastro de clientes.
