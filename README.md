@@ -10,6 +10,14 @@ O objetivo é Desenvolver uma aplicação Web para cadastro de clientes.
 * ASP.NET Core 3.1 (https://docs.microsoft.com/en-us/aspnet/core).
 * C# for Visual Studio https://www.w3schools.com/cs/default.asp.
 * HTML (https://www.w3schools.com/html/).
+<br><br>
+<div style="display: inline_block"><br>
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
+<br><br>
 
 ### Como Executar
 #### Passos
